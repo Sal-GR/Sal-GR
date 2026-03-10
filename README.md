@@ -2,7 +2,7 @@
 I'm just a programmer with a special interest in cybersecurity, systems architecture, and DevOps. System architecture is my favorite something very appealing and fulfilling in designing the architecture and seeing the connections between all the pieces and building something impactful and efficient.<br>
 
 * Computer Science at the University of Houston
-* Currently leading an AR Remote Troubleshooting app at ENGIE North America using WebRTC, Azure, and Jenkins
+* Currently leading a team for a student project at [ENGIE North America](https://www.engie-na.com/) using WebRTC, Azure, and Jenkins
 * Built an NLP/ML framework to detect manipulated resumes and ATS vulnerabilities
 * Built CI/CD pipelines with 100% test coverage using GitHub and Jenkins<br>
 
