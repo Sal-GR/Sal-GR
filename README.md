@@ -11,7 +11,7 @@ My programming language of choice and where I'm the most proficient is Python. I
 ## Previous Involments
 * Database Administrator Internship at Energy AI Solutions
 * Teaching Calculus 2 at The University of Houston
-* STEM Instructor for Lavner Education at Rice University @Lavner
+* STEM Instructor for Lavner Education at Rice University
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salvador-gon) 
