@@ -31,4 +31,3 @@ My programming language of choice and where I'm the most proficient is Python. I
 ---
 [![](https://visitcount.itsvg.in/api?id=Sal-GR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
