@@ -4,8 +4,8 @@ I'm just a programmer with a special interest in cybersecurity, systems architec
 * Computer Science at the University of Houston (graduating May 2026)
 * Currently leading an AR Remote Troubleshooting app at ENGIE North America using WebRTC, Azure, and Jenkins
 * Built an NLP/ML framework to detect manipulated resumes and ATS vulnerabilities
-* Built CI/CD pipelines with 100% test coverage using GitHub and Jenkins
-  <br>
+* Built CI/CD pipelines with 100% test coverage using GitHub and Jenkins<br>
+
 My programming language of choice and where I'm the most proficient is Python. I'm always looking to add more tools and skills to my arsenal. I'm also looking to venture into mobile app development in the near future.<br><br>When I'm not coding, you can find me behind a camera or adding to my coin collection. I am also currently in the process of learning a Mayan language. I'm very fascinated by complex systems in general.<br>You're more than welcome to take a look at my projects and feel free to reach out. I'm always up for collaboration and chatting.
 
 
