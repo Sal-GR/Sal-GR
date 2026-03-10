@@ -10,8 +10,8 @@ My programming language of choice and where I'm the most proficient is Python. I
 
 ## Previous Involments
 * Database Administrator Internship at [Energy AI Solutions](https://energyaisolutions.com/)
-* Teaching Calculus 2 at The University of Houston
-* STEM Instructor for Lavner Education at Rice University
+* Teaching Calculus 2 at [The University of Houston](https://www.uh.edu/nsm/scholar-enrichment/workshops/)
+* STEM Instructor for [Lavner Education](https://www.lavnercampsandprograms.com/location/houston-tx-summer-camps-tech-camps-stem-camps-rice-university/) at Rice University
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salvador-gon) 
