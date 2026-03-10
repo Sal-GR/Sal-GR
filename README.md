@@ -2,7 +2,7 @@
 I'm just a programmer with a special interest in cybersecurity, systems architecture, and DevOps. System architecture is my favorite something very appealing and fulfilling in designing the architecture and seeing the connections between all the pieces and building something impactful and efficient.<br>My programming language of choice and where I'm the most proficient is Python. I'm always looking to add more tools and skills to my arsenal. I'm also looking to venture into mobile app development in the near future.<br><br>When I'm not coding, you can find me behind a camera or adding to my coin collection. I am also currently in the process of learning a Mayan language. I'm very fascinated by complex systems in general.<br>You're more than welcome to take a look at my projects and feel free to reach out. I'm always up for collaboration and chatting.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salvador-gon) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ I'm just a programmer with a special interest in cybersecurity, systems architec
 ![](https://nirzak-streak-stats.vercel.app/?user=Sal-GR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sal-GR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sal-GR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
