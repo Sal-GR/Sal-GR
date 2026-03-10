@@ -9,7 +9,7 @@ I'm just a programmer with a special interest in cybersecurity, systems architec
 My programming language of choice and where I'm the most proficient is Python. I'm always looking to add more tools and skills to my arsenal. I'm also looking to venture into mobile app development in the near future.<br><br>When I'm not coding, you can find me behind a camera or adding to my coin collection. I am also currently in the process of learning a Mayan language. I'm very fascinated by complex systems in general.<br>You're more than welcome to take a look at my projects and feel free to reach out. I'm always up for collaboration and chatting.
 
 ## Previous Involments
-* Database Administrator Internship at Energy AI Solutions
+* Database Administrator Internship at [Energy AI Solutions](https://energyaisolutions.com/)
 * Teaching Calculus 2 at The University of Houston
 * STEM Instructor for Lavner Education at Rice University
 
