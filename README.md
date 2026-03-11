@@ -6,7 +6,8 @@ I'm just a programmer with a special interest in cybersecurity, systems architec
 * Built an NLP/ML framework to detect manipulated resumes and ATS vulnerabilities
 * Built CI/CD pipelines with 100% test coverage using GitHub and Jenkins<br>
 
-When I'm not coding, you can find me behind a camera or adding to my coin collection. I am also currently in the process of learning a Mayan language. I'm very fascinated by complex systems in general.<br>You're more than welcome to take a look at my projects and feel free to reach out. I'm always up for collaboration and chatting.
+When I'm not coding, you can find me behind a camera or adding to my coin collection. I am also currently in the process of learning a Mayan language. I'm very fascinated by complex systems in general.<br>
+You're more than welcome to take a look at my projects and feel free to reach out. I'm always up for collaboration and chatting.
 
 ## Previous Involments
 * Database Administrator Internship at [Energy AI Solutions](https://energyaisolutions.com/)
