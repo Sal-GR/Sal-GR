@@ -2,7 +2,7 @@
 I'm just a programmer with a special interest in cybersecurity, systems architecture, and DevOps. My programming language of choice and where I'm the most proficient is Python. I'm always looking to add more tools and skills to my arsenal. I'm also looking to venture into mobile app development in the near future.<br>
 
 * Computer Science at the University of Houston
-* Currently leading a team for a student project at [ENGIE North America](https://www.engie-na.com/) using WebRTC, Azure, and Jenkins
+* Currently leading a team for a senior project, where we work with an external sponder and build an application using WebRTC, Azure, and Jenkins
 * Built an NLP/ML framework to detect manipulated resumes and ATS vulnerabilities
 * Built CI/CD pipelines with 100% test coverage using GitHub and Jenkins<br>
 
